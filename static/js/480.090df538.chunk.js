@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[480],{480:function(e,a,w){w.r(a),a.default=" = CALCULATE(SUM(Sales[SalesAmount]), PREVIOUSQUARTER(Calendar[DateKey]))"}}]);
-//# sourceMappingURL=480.090df538.chunk.js.map
