@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[7626],{97626:function(e,n,o){o.r(n),n.default='import material/material;\n\nexport {\n  demoMakeHelloWorld(onClose : () -> void) -> Material;\n}\n\ndemoMakeHelloWorld(onClose : () -> void) -> Material {\n  MCenter(\n    MLines2(\n      MText("Hello, world!", []),\n      MTextButton("CLOSE", onClose, [], [])\n    )\n  );\n}\n'}}]);
+//# sourceMappingURL=7626.c757184e.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[6365],{16365:function(e,n,i){i.r(n),n.default='begin:\nTextWindow.Write("Enter a number: ")\nnum = TextWindow.ReadNumber()\nremainder = Math.Remainder(num, 2)\nIf (remainder = 0) Then\n TextWindow.WriteLine("The number is Even")\nElse\n TextWindow.WriteLine("The number is Odd")\nEndIf\nGoto begin'}}]);
+//# sourceMappingURL=6365.5e6076a9.chunk.js.map

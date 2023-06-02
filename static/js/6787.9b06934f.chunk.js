@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwww=self.webpackChunkwww||[]).push([[6787],{96787:function(n,e,t){t.r(e),e.default='(* Sample F# application *)\n[<EntryPoint>]\nlet main argv = \n    printfn "%A" argv\n    System.Console.WriteLine("Hello from F#")\n    0 // return an integer exit code\n\n//-------------------------------------------------------- \n'}}]);
+//# sourceMappingURL=6787.9b06934f.chunk.js.map
